@@ -1,30 +1,34 @@
-# Web_Scraping
-This repository contains web scraping project that demonstrate my experience with data extraction from various websites using Python and libraries like BeautifulSoup, Requests, and Pandas.
-1. Amazon Price Tracker
-   Description: This script tracks the price of a Nikon camera listed on Amazon India. The script extracts product title and price and stores the data in a CSV file.
-Key Features:
+### Web Scraping
+A collection of web scraping project showcasing my ability to extract and process data from various websites using Python.
 
-Scrapes the product title and price from an Amazon product page.
-Stores data in a CSV file for tracking price changes over time.
-Runs at specified intervals to continually monitor price changes.
-Technologies: Python, BeautifulSoup, Requests, CSV
+🏆 **Key Skills Demonstrated:**
+- Web Scraping: Extracting structured and unstructured data from web pages.
+- Data Storage: Saving scraped data in formats like CSV and Pandas DataFrames.
+- Data Visualization: Plotting and analyzing scraped data using Matplotlib and Plotly.
+- Automation: Scheduling scripts to run at specified intervals for continuous data tracking.
 
-2. Scraping List of Largest Companies in India
-Description: This project scrapes a Wikipedia page to retrieve data about the largest companies in India. The information includes company names, industries, and revenue.
+📄 **List of Projects:**
 
-Key Features:
+**Amazon Price Tracker**  
+*This project tracks the price of a Nikon camera on Amazon India, monitoring price changes over time.*  
+- **Key Features:**
+  - Scrapes product title and price from Amazon product page.
+  - Stores the extracted data in a CSV file.
+  - Runs at regular intervals to track price trends.
+- **Technologies:** Python, BeautifulSoup, Requests, CSV.
 
-Scrapes structured data from a Wikipedia table.
-Parses the HTML content into a Pandas DataFrame.
-Saves the data for further analysis.
-Technologies: Python, BeautifulSoup, Requests, Pandas
+**Scraping List of Largest Companies in India**  
+*This project scrapes data from a Wikipedia page to retrieve information about the largest companies in India, including names, industries, and revenue.*  
+- **Key Features:**
+  - Extracts and parses structured data from a Wikipedia table.
+  - Converts HTML content into a Pandas DataFrame.
+  - Saves the data for further analysis.
+- **Technologies:** Python, BeautifulSoup, Requests, Pandas.
 
-3. COVID-19 Statistics Scraper
-Description: This project scrapes COVID-19 statistics from Worldometer, focusing on global cases, deaths, and recoveries. The data is processed and visualized using Python libraries like Matplotlib and Plotly.
-
-Key Features:
-
-Scrapes real-time COVID-19 statistics from Worldometer.
-Visualizes the data using interactive graphs.
-Generates insights from the scraped data, including trends in active, recovered, and serious cases.
-Technologies: Python, BeautifulSoup, Requests, Matplotlib, Plotly
+**COVID-19 Statistics Scraper**  
+*This project scrapes real-time global COVID-19 statistics from Worldometer and visualizes trends in cases, deaths, and recoveries.*  
+- **Key Features:**
+  - Extracts global statistics for COVID-19 cases, deaths, and recoveries.
+  - Visualizes the data using interactive graphs.
+  - Generates insights into trends in active, recovered, and serious cases.
+- **Technologies:** Python, BeautifulSoup, Requests, Matplotlib, Plotly.
