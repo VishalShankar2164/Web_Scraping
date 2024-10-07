@@ -1,8 +1,7 @@
 # Web_Scraping
 This repository contains web scraping project that demonstrate my experience with data extraction from various websites using Python and libraries like BeautifulSoup, Requests, and Pandas.
 1. Amazon Price Tracker
-Description: This script tracks the price of a Nikon camera listed on Amazon India. The script extracts product title and price and stores the data in a CSV file.
-
+   Description: This script tracks the price of a Nikon camera listed on Amazon India. The script extracts product title and price and stores the data in a CSV file.
 Key Features:
 
 Scrapes the product title and price from an Amazon product page.
